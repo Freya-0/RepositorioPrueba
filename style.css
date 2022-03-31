@@ -1,0 +1,74 @@
+/* it worked!*/
+
+body {
+   background:#000031 url(img/6561288.jpg);
+   background-repeat: repeat-y;
+   background-attachment: fixed;
+   font-family: 'Asap', sans-serif;
+   
+}
+
+h1 {
+
+    text-align: center;
+    color:rgb(72, 11, 241)
+}
+
+
+p.destacado
+{
+    padding: 0.5 em;
+    border: 1px;
+    color:rgb(72, 11, 241)
+
+}
+
+p.wtf
+{
+    color: chocolate;
+   
+}
+
+p {
+    color: white;
+ 
+    
+}
+
+.conclusion
+{
+    color:rgb(72, 11, 241) 
+}
+
+.linkedin {
+    background:url(./Img/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png) no-repeat;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 100px;
+    cursor: pointer;
+}
+
+.boton2 {
+    background: url(./Img/índice.jpg) no-repeat;
+    cursor: pointer;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 100px;
+}
+
+.mail{
+    background: url(./Img/mail.png);
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+     
+}
+
+h3 {
+    color:rgb(72, 11, 241) 
+
+}
